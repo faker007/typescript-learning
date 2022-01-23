@@ -13,7 +13,7 @@
     "@types/faker": "^5.5.9",
     "@types/google.maps": "^3.47.0",
     "axios": "^0.24.0",
-    "faker": "^5.5.3"
+    "faker": "^6.6.6"
   },
   "devDependencies": {
     "typescript": "^4.5.2"
